@@ -1,8 +1,8 @@
 # LITA_Capstone_Project
 
-# LITA-Class-Documentation
+# LITA-Capstone-Documentation
 
-### Project Title: E commerce Sales Analysis
+### Project Title: LITA Capstone Analysis
 
 [Project Overview](#Project-Overview)
 
@@ -54,4 +54,3 @@ In the initial phase of the Data Cleaning and preparations, we perform the follo
 
 ### Data Visualization
 
-Right 
