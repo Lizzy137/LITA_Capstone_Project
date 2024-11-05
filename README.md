@@ -49,8 +49,7 @@ In the initial phase of the Data Cleaning and preparations, we perform the follo
      This is where we include some basic lines of code or queries or even some of the DAX expressions used during your analysis;
 
      ```SQL
-     SELECT * FROM LITACapstone 
-     WHERE CONDITION = TRUE
+     SELECT * FROM Dbo.LITACapstone 
      ```
 
 ### Data Visualization
