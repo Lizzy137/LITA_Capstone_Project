@@ -49,20 +49,31 @@ In the initial phase of the Data Cleaning and preparations, we perform the follo
      This is where we include some basic lines of code or queries or even some of the DAX expressions used during your analysis;
 
      ```SQL
-     SELECT * FROM Dbo.LITACapstone 
-     ```
-     
+     SELECT * FROM Dbo.LITACapstone
+     ````
+    
 ````SQL
-select Region, sum (Sales) as RegionalSales
-from LITACapstone
-Group by Region
-````
-
 -----------find the highest-selling product by total sales value---------
 select Top 1 Product, sum(Sales) as TotalSales 
 from LITACapstone
 Group by Product
+````
 
+````SQL
+Select * from [dbo].[CustomerData]
+
+----------retrieve the total number of customers from each region----------
+Select Count(CustomerName) as Customers_per_Region, Region
+from [dbo].[CustomerData]
+Group by Region
+````
+
+````SQL
+----------find the most popular subscription type by the number of customers--------
+Select Top 1 SubscriptionType,Count(CustomerId)
+from CustomerData
+Group by SubscriptionType
+````
 
 
 ### Data Visualization
