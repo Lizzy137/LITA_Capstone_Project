@@ -51,9 +51,48 @@ In the initial phase of the Data Cleaning and preparations, we perform the follo
      ```SQL
      SELECT * FROM Dbo.LITACapstone 
      ```
+     
+````SQL
+select Region, sum (Sales) as RegionalSales
+from LITACapstone
+Group by Region
+````
+
+-----------find the highest-selling product by total sales value---------
+select Top 1 Product, sum(Sales) as TotalSales 
+from LITACapstone
+Group by Product
+
+
 
 ### Data Visualization
 
 ![Screenshot (7)](https://github.com/user-attachments/assets/8dfbaf21-039d-4d59-bc66-5e947c2c2dc5)
 
 ![Screenshot (8)](https://github.com/user-attachments/assets/4bc0d880-7979-4a53-bf06-c462e35012b9)
+
+![Screenshot (11)](https://github.com/user-attachments/assets/acec2ea1-8385-4c07-8acb-88fcdfbbd0dd)
+
+![Screenshot (14)](https://github.com/user-attachments/assets/fdef5cef-5e92-4169-94fd-aa92a42b0d11)
+
+![Screenshot (15)](https://github.com/user-attachments/assets/4d1ec88c-fc68-4542-a4ac-dd38b126e74f)
+
+![Screenshot (16)](https://github.com/user-attachments/assets/2379502b-1baf-4039-93d5-6d442d005c8d)
+
+![Screenshot (17)](https://github.com/user-attachments/assets/55acb2fa-5262-4c65-8114-c5b423f62c47)
+
+![Screenshot (18)](https://github.com/user-attachments/assets/b929ba5f-5a13-4c05-99ce-38a2de2a25d2)
+
+![Screenshot (19)](https://github.com/user-attachments/assets/efd4ffa6-f32f-4373-97b2-5e6ba3139168)
+
+![Screenshot (20)](https://github.com/user-attachments/assets/8179b50d-f29a-4818-954d-1ca1dc5470ed)
+
+![Screenshot (21)](https://github.com/user-attachments/assets/bf404301-3c80-454d-8238-e66e2aea4f05)
+
+![Screenshot (22)](https://github.com/user-attachments/assets/b54e6572-b3ec-4461-b17f-1c03609ee006)
+
+
+
+
+
+
