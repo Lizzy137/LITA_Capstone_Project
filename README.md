@@ -54,3 +54,5 @@ In the initial phase of the Data Cleaning and preparations, we perform the follo
 
 ### Data Visualization
 
+![Screenshot (7)](https://github.com/user-attachments/assets/8dfbaf21-039d-4d59-bc66-5e947c2c2dc5)
+
