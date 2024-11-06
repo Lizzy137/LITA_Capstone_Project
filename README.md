@@ -23,11 +23,11 @@ The primary sources of data used here is LITA Capstone Dataset. [Accessible here
 
 ### Tools Used
 ---
-- Microsoft Excel [Download Here](https://www.microsoft.com)
+- Microsoft Excel 
     1. For Data Cleaning 
     2. For Analysis
     3. For Data Visualization
-    4. 
+     
 - SQL - Structured Query Language for Querying of Data
    1. For generating some outcomes using simple queries, just like are stated below.
    2. Also creating tables of simple outcomes like grouping either by Region or by Products.
