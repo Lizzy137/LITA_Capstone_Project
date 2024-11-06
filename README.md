@@ -18,7 +18,8 @@ This Data Analysis project aims to generate insights into the Sales Performance 
 
 ### Data Sources
 ---
-The primary sources of data used here is LITA Capstone Dataset.
+The primary sources of data used here is LITA Capstone Dataset. [Accessible here](https://github.com/user-attachments/files/17645847/LITA.Capstone.Dataset.xlsx)
+
 
 ### Tools Used
 ---
@@ -28,7 +29,12 @@ The primary sources of data used here is LITA Capstone Dataset.
     3. For Data Visualization
     4. 
 - SQL - Structured Query Language for Querying of Data
-- GitHub for Portfolio Building.
+   1. For generating some outcomes using simple queries, just like are stated below.
+   2. Also creating tables of simple outcomes like grouping either by Region or by Products.
+      
+- PowerBI
+  For intense cleaning and wrangling of the Data.
+  Also for visualizations.
 
 ### Data Cleaning and Preparations
 ---
