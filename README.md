@@ -108,7 +108,9 @@ Group by SubscriptionType
 
 ![Screenshot (22)](https://github.com/user-attachments/assets/b54e6572-b3ec-4461-b17f-1c03609ee006)
 
+![Screenshot (24)](https://github.com/user-attachments/assets/b0bde723-0106-47fb-a7d5-4bc5dd40bcda)
 
+![Screenshot (25)](https://github.com/user-attachments/assets/577221af-2fd8-435b-a5bc-19aa59e3aea9)
 
 
 
